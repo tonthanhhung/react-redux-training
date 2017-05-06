@@ -1,4 +1,4 @@
-import 'babel-polyfill';
+import 'babel-polyfill'; 								//use it for Object.assign
 import React from 'react';
 import ReactDOM from "react-dom";
 import {Provider} from 'react-redux';
